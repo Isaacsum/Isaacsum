@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaacsum
 - 👀 I’m interested in Fintech and Cryptocurrencies 
-- 🌱 I’m currently learning Finance.
+- 🌱 I’m currently studying MSc Financial Engeneering .
 - 💞️ I’m looking to collaborate on Tokenomics
 - 📫 How to reach me kiplimoisaac9@gmail.com 
 
